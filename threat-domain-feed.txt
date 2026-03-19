@@ -10,6 +10,7 @@ jwkoeoqns.biz
 mine.c3pool.com
 *.c3pool.com
 *.botnetdomain.com
+*.portal101.cn
 typgfhb.biz
 mnjmhp.biz
 jlqltsjvh.biz
